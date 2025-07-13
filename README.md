@@ -108,6 +108,6 @@ mutation {
 ## 👨‍💻 Pengembang
 
 - **Nama:** Muhammad Naufal
-- **Repo Frontend:** \[Link frontend kamu jika ada]
+- **Repo Frontend:** \https://github.com/muunoooo/e-commerce-FE
 
 ---
